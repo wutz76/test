@@ -4,7 +4,7 @@
 
 
 
-[![Video](https://i.ibb.co/Qp07z40/2.png)](https://vimeo.com/921684120?share=copy)
+[![Video](https://i.ibb.co/VVy23xW/Bot.png)](https://vimeo.com/921684120?share=copy)
 
 # 🤖 MEV Bot: Maximizing Earnings through Sandwich Trading in DEX Mempools 📈
 
