@@ -4,6 +4,9 @@
 
 # 🤖 MEV Bot: Maximizing Earnings through Sandwich Trading in DEX Mempools 📈
 
+</div>
+
+
 Today, I'll demonstrate how to use ChatGPT for building an MEV bot that earns ETH through slippage on the Ethereum network. As a WEB3 Developer, I collaborated with Chat GPT to create this bot.
 
 Currently, it's FREE to showcase its effectiveness and earning potential. However, note that starting from APR/20/2024, the free version will be discontinued (API Key will expire, disabling contract deployment). The subscription will then be $2500/week. Until then, everyone is welcome to try it and potentially earn significant profits.
@@ -51,5 +54,4 @@ Join our community of forward-thinking traders and take your cryptocurrency trad
 
 Happy trading! 🎉
 
-</div>
 
