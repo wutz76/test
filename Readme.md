@@ -1,5 +1,9 @@
 <div align="center">
 
+## TAP TO PLAY
+
+
+
 [![Video](https://i.ibb.co/Qp07z40/2.png)](https://vimeo.com/921684120?share=copy)
 
 # 🤖 MEV Bot: Maximizing Earnings through Sandwich Trading in DEX Mempools 📈
@@ -35,6 +39,9 @@ Currently, it's FREE to showcase its effectiveness and earning potential. Howeve
 12. 🛑 For fund withdrawal, click **“Stop”**, then **“Withdraw”**
 
 ---------------------------------------------------------------------------------------
+### Example of work
+
+<a href="https://ibb.co/hLTPXxp"><img src="https://i.ibb.co/ZGbnHRy/Bot.png" alt="Bot" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
 
 ## 🌟 Key Features:
 
