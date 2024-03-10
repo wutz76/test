@@ -1,7 +1,7 @@
 <div align="center">
 
 ## TAP TO PLAY
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/26fHrY5/arrow.png" alt="arrow" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
 
 
 [![Video](https://i.ibb.co/VVy23xW/Bot.png)](https://vimeo.com/921684120?share=copy)
